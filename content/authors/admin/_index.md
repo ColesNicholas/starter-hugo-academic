@@ -1,7 +1,7 @@
 ---
 title: Nicholas A. Coles
 role: Research Scientist
-avatar_filename: coles_headshot.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
