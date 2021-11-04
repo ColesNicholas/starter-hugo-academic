@@ -7,6 +7,8 @@ bio: My research interests include affective science, cross-cultural psychology,
 interests:
   - Affective Science
   - Big Team Science
+  - Meta-analysis
+  - Research Methodology
   - Cross Cultural Psychology
 social:
   - icon: envelope
