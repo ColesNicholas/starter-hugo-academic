@@ -39,7 +39,7 @@ email: ncoles797@gmail.com
 superuser: true
 highlight_name: true
 ---
-I am a Research Scientist at Stanford University and the Director of the Psychological Science Accelerator. I conducts research in affective science, cross-cultural psychology, and meta-science.
+I am a Research Scientist at Stanford University and the Director of the [Psychological Science Accelerator](https://psysciacc.org/). I conducts research in affective science, cross-cultural psychology, and meta-science.
 
 In affective science, I seek to understand the social, cognitive, and physiological processes that underlie emotion. Much of my research here has focused on the facial feedback hypothesis, the idea that sensorimotor feedback from facial expressions can impact emotional processes (e.g., that smiling can make people feel happy).\
 \
