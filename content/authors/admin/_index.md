@@ -45,4 +45,4 @@ In affective science, I seek to understand the social, cognitive, and physiologi
 \
 In meta-science, I seek to build research infrastructure that allows researchers to obtain generalizable knowledge about psychological phenomenon. I direct the Psychological Science Accelerator: a globally distributed consortium of researchers who pool intellectual and material resources to accelerate the accumulation of generalizable knowledge in psychology. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Coles_CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Coles_CV.pdf" "newtab" >}}CV{{< /staticref >}}.
