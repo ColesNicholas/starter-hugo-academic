@@ -11,7 +11,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto::ncoles797@gmail.com
+    link: mailto:ncoles797@gmail.com
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/coles_nicholas_
