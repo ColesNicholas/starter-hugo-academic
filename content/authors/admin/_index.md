@@ -14,7 +14,7 @@ social:
     link: /#contact
   - icon: twitter
     icon_pack: fab
-    link: "@coles_nicholas_"
+    link: https://twitter.com/coles_nicholas_
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/citations?user=9BxcrU8AAAAJ&hl=en&oi=ao
