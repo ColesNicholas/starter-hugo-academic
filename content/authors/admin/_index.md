@@ -2,14 +2,14 @@
 title: Nicholas A. Coles
 role: Research Scientist
 avatar_filename: avatar.jpg
-bio: My research interests include affective science, cross-cultural psychology,
-  and meta-science.
+bio: My research interests include affective science, social science research methodology, and AI.
 interests:
   - Affective Science
   - Big Team Science
   - Meta-analysis
   - Research Methodology
   - Cross Cultural Psychology
+  - AI
 social:
   - icon: envelope
     icon_pack: fas
@@ -41,10 +41,12 @@ email: ncoles797@gmail.com
 superuser: true
 highlight_name: true
 ---
-I am a Research Scientist at Stanford University and the Director of the [Psychological Science Accelerator](https://psysciacc.org/). I conduct research in affective science, cross-cultural psychology, and meta-science.
+I am a Research Scientist at Stanford University and the Director of the [Psychological Science Accelerator](https://psysciacc.org/). I conduct research in affective science, research methods, and artificial intelligence.
 
-In affective science, I seek to understand the social, cognitive, and physiological processes that underlie emotion. Much of my research here has focused on the facial feedback hypothesis, the idea that sensorimotor feedback from facial expressions can impact emotional processes (e.g., that smiling can make people feel happy).\
+In affective science, I seek to understand the social, cognitive, and physiological processes that underlie emotion. Much of my research here has focused on examining the extent to which sensoriomotor feedback from the peripheral nervous system (e.g., changes in heart rate, body temperature, and muscle tension) impact the conscious experience of emotion.\
 \
-In meta-science, I seek to build research infrastructure that allows researchers to obtain generalizable knowledge about psychological phenomenon. In this domain, I direct the Psychological Science Accelerator: a globally distributed consortium of researchers who pool intellectual and material resources to accelerate the accumulation of generalizable knowledge in psychology. 
+In research methods, I seek to build research infrastructure that allows researchers to obtain generalizable knowledge about psychological phenomenon. In this domain, I (a) direct the Psychological Science Accelerator: a globally distributed consortium of researchers who pool intellectual and material resources to accelerate the accumulation of generalizable knowledge in psychology, (b) co-direct the [Stanford Big Team Science Lab](https://bigteamsciencelab.github.io/), and (c) consult on various big team science projects, like the [Virtual Experience Research Accelerator](https://sreal.ucf.edu/wp-content/uploads/2022/03/vera_summary.pdf).\
+\
+In artificial intelligence, I am interested in ways that these new technologies can be used to monitor, predict, and change humans' emotions. For example, I founded the [Emotion Physiology and Experience Collaboration](https://epic-collab.github.io/), which seeks to improve the algorithmic recognition of emotion by (a) documenting cultural and contextual sources of model bias, and (b) building foundational datasets that can improve these models.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Coles_CV.pdf" "newtab" >}}CV{{< /staticref >}}.
