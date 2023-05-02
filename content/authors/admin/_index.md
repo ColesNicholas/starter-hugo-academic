@@ -6,7 +6,6 @@ bio: My research interests include affective science, social science research me
 interests:
   - Affective Science
   - Big Team Science
-  - Meta-analysis
   - Research Methodology
   - Cross Cultural Psychology
   - AI
@@ -41,7 +40,7 @@ email: ncoles797@gmail.com
 superuser: true
 highlight_name: true
 ---
-I am a Research Scientist at Stanford University and the Director of the [Psychological Science Accelerator](https://psysciacc.org/). I conduct research in affective science, research methods, and artificial intelligence.
+I am a Research Scientist at Stanford University and the Director of the [Psychological Science Accelerator](https://psysciacc.org/). I conduct research in affective science, research methods, and AI.
 
 In affective science, I seek to understand the social, cognitive, and physiological processes that underlie emotion. Much of my research here has focused on examining the extent to which sensoriomotor feedback from the peripheral nervous system (e.g., changes in heart rate and muscle tension) impact the conscious experience of emotion.\
 \
