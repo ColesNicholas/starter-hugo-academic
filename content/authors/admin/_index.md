@@ -17,7 +17,7 @@ social:
     icon_pack: fab
     link: https://twitter.com/coles_nicholas_
   - icon: linkedin
-    icon_pack: fas
+    icon_pack: fab
     link: https://www.linkedin.com/in/nicholas-coles/
   - icon: graduation-cap
     icon_pack: fas
