@@ -43,11 +43,11 @@ email: ncoles797@gmail.com
 superuser: true
 highlight_name: true
 ---
-I am a Research Scientist at Stanford University and the Director of the [Psychological Science Accelerator](https://psysciacc.org/). I conduct research in affective science, research methods, and AI.
+I am a Research Scientist at Stanford University and the Director of the [Psychological Science Accelerator](https://psysciacc.org/). I conduct research on emotions, big team science, and [more recenlty] AI.
 
 In affective science, I seek to understand the social, cognitive, and physiological processes that underlie emotion. Much of my research here has focused on examining the extent to which sensoriomotor feedback from the peripheral nervous system (e.g., changes in heart rate and muscle tension) impact the conscious experience of emotion.\
 \
-In research methods, I seek to build infrastructure that allows researchers to obtain more generalizable knowledge about humans. In this domain, I (a) direct the Psychological Science Accelerator: a consortium of researchers (2500+ from 70+ countries) who pool resources to accelerate the accumulation of generalizable knowledge in psychology, (b) co-direct the [Stanford Big Team Science Lab](https://bigteamsciencelab.github.io/), and (c) support various big team science projects (e.g., the [Virtual Experience Research Accelerator](https://sreal.ucf.edu/wp-content/uploads/2022/03/vera_summary.pdf)).\
+In big team science, I seek to build infrastructure that allows researchers to collaboratively tackle ultra-complex questions in science. In this domain, I (a) direct the Psychological Science Accelerator: a consortium of researchers (2500+ from 70+ countries) who pool resources to accelerate the accumulation of generalizable knowledge in psychology, (b) co-direct the [Stanford Big Team Science Lab](https://bigteamsciencelab.github.io/), and (c) support various big team science initiatives (e.g., the [Virtual Experience Research Accelerator](https://sreal.ucf.edu/wp-content/uploads/2022/03/vera_summary.pdf) and [Next Generation Event Horizon Telescope](https://www.ngeht.org/)).\
 \
 In artificial intelligence, I am interested in ways that these new technologies can be used to monitor, predict, and change humans' emotions. For example, I recently founded the [Emotion Physiology and Experience Collaboration](https://epic-collab.github.io/), which seeks to improve the algorithmic recognition of emotion by (a) documenting cultural and contextual sources of model bias, and (b) building foundational datasets that can improve these models.
 
