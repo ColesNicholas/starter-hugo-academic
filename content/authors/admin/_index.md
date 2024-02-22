@@ -43,7 +43,7 @@ email: ncoles797@gmail.com
 superuser: true
 highlight_name: true
 ---
-I am a Research Scientist at Stanford University and the Director of the [Psychological Science Accelerator](https://psysciacc.org/). I conduct research on emotions, big team science, and [more recently] AI.
+I am a Research Scientist at Stanford University and the Director of the [Psychological Science Accelerator](https://psysciacc.org/). I conduct research on emotions, big team science, and AI.
 
 In affective science, I seek to understand the social, cognitive, and physiological processes that underlie emotion. Much of my research here has focused on examining the extent to which sensorimotor feedback from the peripheral nervous system (e.g., changes in heart rate and muscle tension) impact the conscious experience of emotion.\
 \
