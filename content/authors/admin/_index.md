@@ -6,9 +6,11 @@ bio: My research interests include affective science, collaborative methods, and
 interests:
   - Affective Science
   - Big Team Science
+  - AI
+  - Open Science
   - Research Methodology
   - Cross Cultural Psychology
-  - AI
+
 social:
   - icon: envelope
     icon_pack: fas
