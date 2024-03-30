@@ -2,7 +2,7 @@
 title: Nicholas A. Coles
 role: Research Scientist
 avatar_filename: avatar.jpg
-bio: My research interests include affective science, social science research methodology, and AI.
+bio: My research interests include affective science, collaborative methods, and AI.
 interests:
   - Affective Science
   - Big Team Science
@@ -26,10 +26,16 @@ social:
     icon_pack: fab
     link: https://github.com/ColesNicholas/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of Florida
+    url: https://www.ufl.edu/
 education:
   courses:
+    - course: Postdoctoral training
+      institution: Stanford University
+      year: 2024
+    - course: Postdoctoral training
+      institution: Harvard University
+      year: 2021
     - course: PhD in Social Psychology
       institution: University of Tennessee
       year: 2020
