@@ -7,6 +7,9 @@ main:
   - name: Home
     url: '#about'
     weight: 10s
+  - name: Home
+    url: 'contents/terms.md'
+    weight: 10s
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
