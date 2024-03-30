@@ -8,7 +8,7 @@ main:
     url: '#about'
     weight: 10s
   - name: Terms
-    url: contents/terms.md
+    url: content/terms.md
     weight: 10s
 
 # Link to a PDF of your resume/CV from the menu.
