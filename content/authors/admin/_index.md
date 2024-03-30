@@ -1,6 +1,6 @@
 ---
 title: Nicholas A. Coles
-role: Research Scientist
+role: Assistant Professor
 avatar_filename: avatar.jpg
 bio: My research interests include affective science, collaborative methods, and AI.
 interests:
