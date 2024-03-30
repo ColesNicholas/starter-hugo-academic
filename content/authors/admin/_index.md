@@ -39,9 +39,6 @@ education:
     - course: PhD in Social Psychology
       institution: University of Tennessee
       year: 2020
-    - course: MA in Social Psychology
-      institution: University of Tennessee
-      year: 2017
     - course: BSc in Interdisciplinary Studies
       institution: University of Central Florida
       year: 2015
