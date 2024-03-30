@@ -7,9 +7,6 @@ main:
   - name: Home
     url: /
     weight: 10
-  - name: Test
-    url: content/test/index.md
-    weight: 20
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
