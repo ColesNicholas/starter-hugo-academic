@@ -7,7 +7,7 @@ main:
   - name: Home
     url: '#about'
     weight: 10s
-  - name: Home
+  - name: Terms
     url: 'contents/terms.md'
     weight: 10s
 
